@@ -1,0 +1,21 @@
+{
+  "name": "01",
+  "authors": [
+    "pydev <xtfkpi@gmail.com>"
+  ],
+  "description": "01",
+  "main": "01",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartist": "^0.9.7"
+  }
+}
